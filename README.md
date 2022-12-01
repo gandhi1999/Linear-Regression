@@ -1,2 +1,3 @@
 # Linear-Regression
-How does linear model works and processdure
+How does linear model works and procedure
+
